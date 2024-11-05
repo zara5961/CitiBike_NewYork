@@ -7,8 +7,6 @@ This project analyzes data from New York’s Citi Bike program, one of the large
 ### About Citi Bike
 Since its inception in 2013, the Citi Bike program has grown to serve millions of users across New York. The program collects detailed data on bike usage every month, making it available publicly for research and reporting. In this project, the focus is on aggregating, visualizing, and analyzing these data points to identify notable trends.
 
----
-
 ## Project Objective
 
 The primary aim is to address critical questions city officials might have about Citi Bike’s usage, including but not limited to:
@@ -18,9 +16,10 @@ The primary aim is to address critical questions city officials might have about
 4. Bike usage duration and repair requirements.
 5. Geographic trends in usage.
 
-This project uses Tableau Public to create interactive and static visualizations, along with dashboards and a story presentation, to narrate the Citi Bike journey in New York effectively.
+This project uses *Tableau Public* to create interactive and static visualizations, along with dashboards and a story presentation, to narrate the Citi Bike journey in New York effectively.
+
 ![Project](Images/download.jpg)
----
+
 
 ## Data Files and Structure
 
@@ -32,7 +31,7 @@ This project uses Tableau Public to create interactive and static visualizations
 - **[Your .twbx file (Tableau Workbook)]**: This Tableau workbook file contains all visualizations, dashboards, and the final story. Each sheet within the workbook corresponds to a specific visualization.
 
 - **Tableau Public Link**: The workbook is saved to Tableau Public, it can be accessed [here](https://public.tableau.com/app/profile/zahra.pazouki/viz/CitiBikeNY-ZaraPazouki/TotalNumberofTripsinmonth?publish=yes). 
----
+
 
 ## Analysis Structure
 
@@ -57,5 +56,5 @@ This project uses Tableau Public to create interactive and static visualizations
    - Organize the findings in a Tableau Story to present a cohesive narrative.
    ![Project](Images/Story.jpg)
 
----
+
 
