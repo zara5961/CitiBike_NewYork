@@ -30,7 +30,7 @@ This project uses *Tableau Public* to create interactive and static visualizatio
 ### File Details
 - **[Your .twbx file (Tableau Workbook)]**: This Tableau workbook file contains all visualizations, dashboards, and the final story. Each sheet within the workbook corresponds to a specific visualization.
 
-- **Tableau Public Link**: The workbook is saved to Tableau Public, it can be accessed [here](https://public.tableau.com/app/profile/zahra.pazouki/viz/CitiBikeNY-ZaraPazouki/TotalNumberofTripsinmonth?publish=yes). 
+- **Tableau Public Link**: The workbook is saved to Tableau Public, it can be accessed [here](https://public.tableau.com/app/profile/zahra.pazouki/vizzes). 
 
 
 ## Analysis Structure
